@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/DronecodeSDK/example/dronesml/offboardcontrol.cpp
+iostream
+-
+thread
+-
+cmath
+-
+chrono
+-
+dronecode_sdk/dronecode_sdk.h
+-
+dronecode_sdk/plugins/action/action.h
+-
+dronecode_sdk/plugins/offboard/offboard.h
+-
+dronecode_sdk/plugins/telemetry/telemetry.h
+-
+

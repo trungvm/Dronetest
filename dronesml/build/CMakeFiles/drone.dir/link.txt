@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/drone.dir/offboardcontrol.cpp.o  -o drone -rdynamic -ldronecode_sdk -ldronecode_sdk_action -ldronecode_sdk_offboard -ldronecode_sdk_telemetry 
